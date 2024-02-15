@@ -1,0 +1,140 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	key[]: "Nichinan"
+	val[]: "日南"
+
+	key[]: "Akita"
+	val[]: "秋田"
+
+	key[]: "Aomori"
+	val[]: "青森"
+
+	key[]: "Tokyo-Ariake-"
+	val[]: "东京 -有明-"
+
+	key[]: "Futtsu"
+	val[]: "富津"
+
+	key[]: "Hakata"
+	val[]: "博多"
+
+	key[]: "Hakodate"
+	val[]: "函馆"
+
+	key[]: "Hitachi"
+	val[]: "日立"
+
+	key[]: "Hitachi_Naka"
+	val[]: "常陆那珂"
+
+	key[]: "Hyuga"
+	val[]: "日向"
+
+	key[]: "In-noshima"
+	val[]: "因岛"
+
+	key[]: "Iwakuni"
+	val[]: "岩国"
+
+	key[]: "Kagoshima"
+	val[]: "鹿儿岛"
+
+	key[]: "Kanazawa"
+	val[]: "金泽"
+
+	key[]: "Kanda"
+	val[]: "神田"
+
+	key[]: "Kitakyushu"
+	val[]: "北九州"
+
+	key[]: "Kobe"
+	val[]: "神户"
+
+	key[]: "Kurihama"
+	val[]: "久里滨"
+
+	key[]: "Kushiro"
+	val[]: "钏路"
+
+	key[]: "Misaki"
+	val[]: "三崎"
+
+	key[]: "Nagoya"
+	val[]: "名古屋"
+
+	key[]: "Naha"
+	val[]: "那霸"
+
+	key[]: "Niigata"
+	val[]: "新潟"
+
+	key[]: "Oarai"
+	val[]: "大洗"
+
+	key[]: "Oita"
+	val[]: "大分"
+
+	key[]: "Omaezaki"
+	val[]: "御前崎"
+
+	key[]: "Osaka"
+	val[]: "大阪"
+
+	key[]: "Osaka_Nanko"
+	val[]: "大阪南港"
+
+	key[]: "Yokohama"
+	val[]: "横滨"
+
+	key[]: "Otaru"
+	val[]: "小樽"
+
+	key[]: "Saganoseki"
+	val[]: "佐贺关"
+
+	key[]: "Sakaiminato"
+	val[]: "境港"
+
+	key[]: "Sakata"
+	val[]: "酒田"
+
+	key[]: "Sendai"
+	val[]: "仙台"
+
+	key[]: "Shibushi"
+	val[]: "志布志"
+
+	key[]: "Shinmoji"
+	val[]: "新门司"
+
+	key[]: "Suzuka"
+	val[]: "铃鹿"
+
+	key[]: "Takamatsu"
+	val[]: "高松"
+
+	key[]: "Tokushima"
+	val[]: "德岛"
+
+	key[]: "Tomakomai"
+	val[]: "苫小牧"
+
+	key[]: "Tsuruga"
+	val[]: "敦贺"
+
+	key[]: "Uno"
+	val[]: "宇野"
+
+	key[]: "Wakayama"
+	val[]: "和歌山"
+
+	key[]: "Wakkanai"
+	val[]: "稚内"
+
+ # credit to Tiyuki_JP
+
+}
+} 
