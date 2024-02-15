@@ -1,0 +1,30 @@
+
+city_data: city.kawasaki
+{
+	city_name: "Kawasaki"
+	short_city_name: "Kawasaki"
+	city_name_localized: "@@kawasaki@@"
+	country: kanagawa
+
+	map_x_offsets[]: -30
+	map_x_offsets[]: -30
+	map_x_offsets[]: -30
+	map_x_offsets[]: -20
+	map_x_offsets[]: -10
+	map_x_offsets[]: -10
+	map_x_offsets[]: -30
+	map_x_offsets[]: -30
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -30
+	map_y_offsets[]: -30
+
+	vehicle_brands[]: "man"
+
+#	license_plate[]: .kanagawa.lp.truck
+}

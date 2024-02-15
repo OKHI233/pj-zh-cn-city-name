@@ -1,0 +1,31 @@
+
+city_data: city.yokohama
+{
+	city_name: "Yokohama"
+	short_city_name: "Yokohama"
+	city_name_localized: "@@yokohama@@"
+	country: kanagawa
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -40
+	map_x_offsets[]: -40
+	map_x_offsets[]: -40
+	map_x_offsets[]: -40
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -26
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "daf"
+
+#	license_plate[]: .kanagawa.lp.truck
+
+}

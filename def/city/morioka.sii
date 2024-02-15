@@ -1,0 +1,30 @@
+﻿
+city_data: city.morioka
+{
+	city_name: "Morioka"
+	short_city_name: "Morioka"
+	city_name_localized: "@@morioka@@"
+	country: iwate
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -50
+	map_x_offsets[]: -49
+	map_x_offsets[]: -46
+	map_x_offsets[]: -44
+	map_x_offsets[]: -45
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 5
+	map_y_offsets[]: -35
+	map_y_offsets[]: -62
+	map_y_offsets[]: -49
+	map_y_offsets[]: -11
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "mercedes"
+
+#	license_plate[]: .iwate.lp.truck
+}

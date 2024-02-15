@@ -1,0 +1,31 @@
+
+city_data: city.tokyo
+{
+	city_name: "Tokyo"
+	short_city_name: "Tokyo"
+	city_name_localized: "@@tokyo@@"
+	country: tokyo
+
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -26
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "volvo"
+
+#	license_plate[]: .tokyo.lp.truck
+
+}

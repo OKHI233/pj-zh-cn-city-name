@@ -1,0 +1,30 @@
+
+city_data: city.nagoya
+{
+	city_name: "Nagoya"
+	short_city_name: "Nagoya"
+	city_name_localized: "@@nagoya@@"
+	country: aichi
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -26
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "renault"
+
+#	license_plate[]: .aichi.lp.truck
+}

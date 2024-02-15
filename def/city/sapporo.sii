@@ -1,0 +1,30 @@
+
+city_data: city.sapporo
+{
+	city_name: "Sapporo"
+	short_city_name: "Sapporo"
+	city_name_localized: "@@sapporo@@"
+	country: hokkaido
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -26
+	map_y_offsets[]: -26
+
+	vehicle_brands[]: "man"
+
+#	license_plate[]: .hokkaido.lp.truck
+}
