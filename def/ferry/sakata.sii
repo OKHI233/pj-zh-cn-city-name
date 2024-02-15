@@ -1,0 +1,7 @@
+ferry_data: ferry.sakata
+{
+	ferry_name: "Sakata"
+	ferry_name_localized: "@@Sakata@@"
+}
+
+

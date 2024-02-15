@@ -1,0 +1,7 @@
+ferry_data: ferry.hitachi_naka
+{
+	ferry_name: "Hitachi_Naka"
+	ferry_name_localized: "@@Hitachi_Naka@@"
+}
+
+

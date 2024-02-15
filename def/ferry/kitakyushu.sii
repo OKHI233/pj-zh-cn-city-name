@@ -1,0 +1,7 @@
+ferry_data: ferry.kitakyushu
+{
+	ferry_name: "Kitakyushu"
+	ferry_name_localized: "@@Kitakyushu@@"
+}
+
+

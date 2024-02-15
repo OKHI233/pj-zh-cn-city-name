@@ -1,0 +1,7 @@
+ferry_data: ferry.osakananko
+{
+	ferry_name: "Osaka_Nanko"
+	ferry_name_localized: "@@Osaka_Nanko@@"
+}
+
+
