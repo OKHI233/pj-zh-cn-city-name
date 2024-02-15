@@ -1,0 +1,238 @@
+﻿SiiNunit
+{
+localization_db : .localization
+{
+    key[]:  "aichi"
+    val[]:  "爱知"
+
+    key[]:  "chiba"
+    val[]:  "千叶"
+
+    key[]:  "fukui"
+    val[]:  "福井"
+
+    key[]:  "gifu"
+    val[]:  "岐阜"
+
+    key[]:  "hokkaido"
+    val[]:  "北海道"
+
+    key[]:  "ishikawa"
+    val[]:  "石川"
+
+    key[]:  "japan"
+    val[]:  "日本"
+
+    key[]:  "joetsu"
+    val[]:  "上越"
+
+    key[]:  "kanagawa"
+    val[]:  "神奈川"
+
+    key[]:  "kanazawa"
+    val[]:  "金泽"
+
+    key[]:  "nagoya"
+    val[]:  "名古屋"
+
+    key[]:  "niigata"
+    val[]:  "新潟"
+
+    key[]:  "sapporo"
+    val[]:  "札幌"
+
+    key[]:  "takayama"
+    val[]:  "高山"
+
+    key[]:  "tokyo"
+    val[]:  "东京"
+
+    key[]:  "toyama"
+    val[]:  "富山"
+
+    key[]:  "yokohama"
+    val[]:  "横滨"
+
+    key[]:  "matsuyama"
+    val[]:  "松山"
+
+    key[]:  "ikata"
+    val[]:  "伊方"
+
+    key[]:  "seiyo"
+    val[]:  "西予"
+
+    key[]:  "saijo"
+    val[]:  "西条"
+
+    key[]:  "imabari"
+    val[]:  "今治"
+
+    key[]:  "shikokuchuo"
+    val[]:  "四国中央"
+
+    key[]:  "tokushima"
+    val[]:  "德岛"
+
+    key[]:  "itoigawa"
+    val[]:  "丝鱼川"
+
+    key[]:  "hirayu"
+    val[]:  "平汤"
+
+    key[]:  "matsumoto"
+    val[]:  "松本"
+
+    key[]:  "innoshima"
+    val[]:  "因岛"
+
+    key[]:  "kamioka"
+    val[]:  "神冈"
+
+    key[]:  "hida"
+    val[]:  "飞驒"
+
+    key[]:  "awaji"
+    val[]:  "淡路"
+
+    key[]:  "osaka"
+    val[]:  "大阪"
+
+    key[]:  "aomori"
+    val[]:  "青森"
+
+    key[]:  "asahikawa"
+    val[]:  "旭川"
+
+    key[]:  "fukuoka"
+    val[]:  "福冈"
+
+    key[]:  "fukushima"
+    val[]:  "福岛"
+
+    key[]:  "ehime"
+    val[]:  "爱媛"
+
+    key[]:  "hakodate"
+    val[]:  "函馆"
+
+    key[]:  "hikone"
+    val[]:  "彦根"
+
+    key[]:  "hiroshima"
+    val[]:  "广岛"
+
+    key[]:  "iida"
+    val[]:  "饭田"
+
+    key[]:  "kawasaki"
+    val[]:  "川崎"
+
+    key[]:  "kitakyusyu"
+    val[]:  "北九州"
+
+    key[]:  "kobe"
+    val[]:  "神户"
+
+    key[]:  "kyoto"
+    val[]:  "京都"
+
+    key[]:  "morioka"
+    val[]:  "盛冈"
+
+    key[]:  "muroran"
+    val[]:  "室兰"
+
+    key[]:  "oarai"
+    val[]:  "大洗"
+
+    key[]:  "okayama"
+    val[]:  "冈山"
+
+    key[]:  "otaru"
+    val[]:  "小樽"
+
+    key[]:  "otsu"
+    val[]:  "大津"
+
+    key[]:  "rumoi"
+    val[]:  "留萌"
+
+    key[]:  "saitama"
+    val[]:  "埼玉"
+
+    key[]:  "sendai"
+    val[]:  "仙台"
+
+    key[]:  "shizuoka"
+    val[]:  "静冈"
+
+    key[]:  "takamatsu"
+    val[]:  "高松"
+
+    key[]:  "takaoka"
+    val[]:  "高冈"
+
+    key[]:  "tomakomai"
+    val[]:  "苫小牧"
+
+    key[]:  "tsuruga"
+    val[]:  "敦贺"
+
+    key[]:  "utsunomiya"
+    val[]:  "宇都宫"
+
+    key[]:  "wakkanai"
+    val[]:  "稚内"
+
+    key[]:  "yamaguchi"
+    val[]:  "山口"
+
+    key[]:  "naruto"
+    val[]:  "鸣门"
+
+    key[]:  "akashi"
+    val[]:  "明石"
+
+    key[]:  "amagasaki"
+    val[]:  "尼崎"
+
+    key[]:  "kurobe"
+    val[]:  "黑部"
+
+    key[]:  "hakusan"
+    val[]:  "白山"
+
+    key[]:  "miyoshi"
+    val[]:  "三好"
+
+    key[]:  "suita"
+    val[]:  "吹田"
+
+    key[]:  "suzuka"
+    val[]:  "铃鹿"
+
+    key[]:  "toyonaka"
+    val[]:  "丰中"
+
+    key[]:  "nagano"
+    val[]:  "长野"
+
+    key[]:  "kochi"
+    val[]:  "高知"
+
+    key[]:  "shirakawa_v"
+    val[]:  "白川（飞驒）"
+
+    key[]:  "shirakawa_t"
+    val[]:  "白川（美浓）"
+
+    key[]:  "nishinomiya"
+    val[]:  "西宫"
+
+    key[]:  "hyogo"
+    val[]:  "兵库"
+
+
+}
+} # EOF

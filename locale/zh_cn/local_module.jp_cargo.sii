@@ -1,0 +1,11 @@
+﻿SiiNunit
+{
+localization_db : .localization
+{
+    key[]:  "scrap_metals"
+    val[]:  "JP 废铁"
+
+    key[]:  "jp_waste"
+    val[]:  "JP 工业废弃物"
+}
+}
