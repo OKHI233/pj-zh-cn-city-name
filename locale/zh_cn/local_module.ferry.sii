@@ -11,7 +11,7 @@ localization_db : .localization
 	key[]: "Aomori"
 	val[]: "青森"
 
-	key[]: "Tokyo-Ariake-"
+	key[]: "Tokyo_Ariake"
 	val[]: "东京 -有明-"
 
 	key[]: "Futtsu"
@@ -48,7 +48,7 @@ localization_db : .localization
 	val[]: "神田"
 
 	key[]: "Kitakyushu"
-	val[]: "北九州"
+	val[]: "北九州 新门司港"
 
 	key[]: "Kobe"
 	val[]: "神户"
@@ -133,6 +133,9 @@ localization_db : .localization
 
 	key[]: "Wakkanai"
 	val[]: "稚内"
+
+	key[]: "kitakyumoji"
+	val[]: "北九州 新门司港"
 
  # credit to Tiyuki_JP
 

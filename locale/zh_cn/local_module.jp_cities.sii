@@ -222,10 +222,10 @@ localization_db : .localization
     val[]:  "高知"
 
     key[]:  "shirakawa_v"
-    val[]:  "白川（飞驒）"
+    val[]:  "白川村（飞驒）"
 
     key[]:  "shirakawa_t"
-    val[]:  "白川（美浓）"
+    val[]:  "白川町（美浓）"
 
     key[]:  "nishinomiya"
     val[]:  "西宫"
@@ -233,6 +233,11 @@ localization_db : .localization
     key[]:  "hyogo"
     val[]:  "兵库"
 
+    key[]:  "daikoku"
+    val[]:  "大黑"
+
+    key[]:  "mie"
+    val[]:  "三重"
 
 }
 } # EOF
