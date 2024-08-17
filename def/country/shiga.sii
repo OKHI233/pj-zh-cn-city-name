@@ -5,7 +5,8 @@ country_data: country.data.shiga
 	name: "Shiga"
 	name_localized: "@@shiga@@"
 	country_code: "JPSG"
-
+	iso_country_code: "shiga" #\material\ui\flags
+	
 	pos:(-4562, 0, 3511)
 
 	fuel_price: 0.969

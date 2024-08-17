@@ -5,6 +5,7 @@ country_data: country.data.aomori
 	name: "Aomori"
 	name_localized: "@@aomori@@"
 	country_code: "JPAO"
+	iso_country_code: "aomori" #\material\ui\flags
 
 	pos:(30582, 0, -48897)
 

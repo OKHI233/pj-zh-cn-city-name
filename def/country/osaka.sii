@@ -5,7 +5,8 @@ country_data: country.data.osaka
 	name: "Osaka"
 	name_localized: "@@osaka@@"
 	country_code: "JPOS"
-
+	iso_country_code: "osaka" #\material\ui\flags
+	
 	pos:(-4562, 0, 3511)
 
 	fuel_price: 0.969

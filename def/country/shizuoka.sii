@@ -5,7 +5,8 @@ country_data: country.data.shizuoka
 	name: "Shizuoka"
 	name_localized: "@@shizuoka@@"
 	country_code: "JPSZ"
-
+	iso_country_code: "shizuoka" #\material\ui\flags
+	
 	pos:(68240, 0, 113177)
 
 	fuel_price: 0.969

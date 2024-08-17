@@ -5,7 +5,8 @@ country_data: country.data.kochi
 	name: "Kochi"
 	name_localized: "@@kochi@@"
 	country_code: "JPKO"
-
+	iso_country_code: "kochi" #\material\ui\flags
+	
 	pos:(-1677, 0, -2060)
 
 	fuel_price: 0.969

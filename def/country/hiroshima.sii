@@ -5,6 +5,7 @@ country_data: country.data.hiroshima
 	name: "Hiroshima"
 	name_localized: "@@hiroshima@@"
 	country_code: "JPHR"
+	iso_country_code: "hiroshima" #\material\ui\flags
 
 	pos:(-1677, 0, -2060)
 

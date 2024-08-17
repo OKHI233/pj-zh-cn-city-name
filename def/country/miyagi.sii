@@ -5,7 +5,8 @@ country_data: country.data.miyagi
 	name: "Miyagi"
 	name_localized: "@@miyagi@@"
 	country_code: "JPMG"
-
+	iso_country_code: "miyagi" #\material\ui\flags
+	
 	pos:(30582, 0, -48897)
 
 	fuel_price: 0.969

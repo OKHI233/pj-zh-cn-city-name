@@ -5,7 +5,8 @@ country_data: country.data.okayama
 	name: "Okayama"
 	name_localized: "@@okayama@@"
 	country_code: "JPOK"
-
+	iso_country_code: "okayama" #\material\ui\flags
+	
 	pos:(-1677, 0, -2060)
 
 	fuel_price: 0.969

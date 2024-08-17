@@ -3,9 +3,10 @@ country_data: country.data.nagano
 {
 	country_id: 226
 	name: "Nagano"
-	name_localized: "@@Nagano@@"
+	name_localized: "@@nagano@@"
 	country_code: "JPNG"
-
+	iso_country_code: "nagano" #\material\ui\flags
+	
 	pos:(396217, 0, 77200)
 
 	fuel_price: 0.969

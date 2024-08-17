@@ -1,13 +1,13 @@
-
-country_data: country.data.niigata
+﻿
+country_data: country.data.mie
 {
-	country_id: 219
-	name: "Niigata"
-	name_localized: "@@niigata@@"
-	country_code: "JPNI"
-	iso_country_code: "niigata" #\material\ui\flags
+	country_id: 230
+	name: "Mie"
+	name_localized: "@@mie@@"
+	country_code: "JPME"
+	iso_country_code: "mie" #\material\ui\flags
 	
-	pos:(11380, 0, -9863)
+	pos:(-4562, 0, 3511)
 
 	fuel_price: 0.969
 

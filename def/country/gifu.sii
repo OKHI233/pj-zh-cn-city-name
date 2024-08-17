@@ -5,7 +5,8 @@ country_data: country.data.gifu
 	name: "Gifu"
 	name_localized: "@@gifu@@"
 	country_code: "JPGF"
-
+	iso_country_code: "gifu" #\material\ui\flags
+	
 	pos:(563, 0, 5314)
 
 	fuel_price: 0.969

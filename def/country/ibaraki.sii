@@ -5,7 +5,8 @@ country_data: country.data.ibaraki
 	name: "Ibaraki"
 	name_localized: "@@ibaraki@@"
 	country_code: "JPIB"
-
+	iso_country_code: "ibaraki" #\material\ui\flags
+	
 	pos:(68240, 0, 113177)
 
 	fuel_price: 0.969
