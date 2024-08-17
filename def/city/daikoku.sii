@@ -1,50 +1,52 @@
-ï»¿
-city_data: city.kitakyusyu
+
+city_data: city.daikoku
 {
-	city_name: "Kitakyusyu"
-	short_city_name: "Kitakyusyu"
-	city_name_localized: "@@kitakyusyu@@"
-	country: fukuoka
+	city_name: "Daikoku"
+	short_city_name: "Daikoku"
+	city_name_localized: "@@daikoku@@"
+	country: kanagawa
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
-	map_x_offsets[]: -50
-	map_x_offsets[]: -49
-	map_x_offsets[]: -46
-	map_x_offsets[]: -44
-	map_x_offsets[]: -45
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
+	map_x_offsets[]: -26
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
-	map_y_offsets[]: 5
-	map_y_offsets[]: -35
-	map_y_offsets[]: -62
-	map_y_offsets[]: -49
-	map_y_offsets[]: -11
+	map_y_offsets[]: 25
+	map_y_offsets[]: -28
+	map_y_offsets[]: -50
+	map_y_offsets[]: -48
+	map_y_offsets[]: -26
 	map_y_offsets[]: -26
 
 	vehicle_brands[]: "scania"
 
-	license_plate[]: .kitakyusyu.lp.truck
+	license_plate[]: .dev_a.lp.truck
+
 }
-license_plate_data : .kitakyusyu.lp.car
+
+license_plate_data : .dev_a.lp.car
 {
 	type: car
 	background_front:	front
 	background_rear:	rear
 	templates[]:"4012-335"
 
-	def0[]:"ã‚"
-	def0[]:"ã„"
-	def0[]:"ã†"
-	def0[]:"ã‹"
-	def0[]:"ã"
-	def0[]:"ã"
-	def0[]:"ã‘"
-	def0[]:"ã“"
-	def0[]:"ã›"
-	def0[]:"ã‚’"
+	def0[]:"‚ "
+	def0[]:"‚¢"
+	def0[]:"‚¤"
+	def0[]:"‚©"
+	def0[]:"‚«"
+	def0[]:"‚­"
+	def0[]:"‚¯"
+	def0[]:"‚±"
+	def0[]:"‚¹"
+	def0[]:"‚ğ"
 
 	def1[]:"."
 	def1[]:"1"
@@ -84,7 +86,7 @@ license_plate_data : .kitakyusyu.lp.car
 
 }
 
-license_plate_data : .kitakyusyu.lp.truck
+license_plate_data : .dev_a.lp.truck
 {
 	type: truck
 	background_front:	truck_front
@@ -92,15 +94,15 @@ license_plate_data : .kitakyusyu.lp.truck
 	
 	templates[]:"4012-335"
 
-	def0[]:"ã‚"
-	def0[]:"ã„"
-	def0[]:"ã†"
-	def0[]:"ã‹"
-	def0[]:"ã"
-	def0[]:"ã"
-	def0[]:"ã‘"
-	def0[]:"ã“"
-	def0[]:"ã‚’"
+	def0[]:"‚ "
+	def0[]:"‚¢"
+	def0[]:"‚¤"
+	def0[]:"‚©"
+	def0[]:"‚«"
+	def0[]:"‚­"
+	def0[]:"‚¯"
+	def0[]:"‚±"
+	def0[]:"‚ğ"
 
 	def1[]:"."
 	def1[]:"1"
@@ -139,22 +141,22 @@ license_plate_data : .kitakyusyu.lp.truck
 	def5[]:"</align>"
 }
 
-license_plate_data : .kitakyusyu.lp.trailer
+license_plate_data : .dev_a.lp.trailer
 {
 	type: trailer
 	background_rear:	trailer
 	
 	templates[]:"4012-335"
 
-	def0[]:"ã‚"
-	def0[]:"ã„"
-	def0[]:"ã†"
-	def0[]:"ã‹"
-	def0[]:"ã"
-	def0[]:"ã"
-	def0[]:"ã‘"
-	def0[]:"ã“"
-	def0[]:"ã‚’"
+	def0[]:"‚ "
+	def0[]:"‚¢"
+	def0[]:"‚¤"
+	def0[]:"‚©"
+	def0[]:"‚«"
+	def0[]:"‚­"
+	def0[]:"‚¯"
+	def0[]:"‚±"
+	def0[]:"‚ğ"
 
 	def1[]:"."
 	def1[]:"1"

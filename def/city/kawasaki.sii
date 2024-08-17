@@ -24,7 +24,7 @@ city_data: city.kawasaki
 	map_y_offsets[]: -30
 	map_y_offsets[]: -30
 
-	vehicle_brands[]: "man"
+	vehicle_brands[]: "mercedes"
 
 #	license_plate[]: .kanagawa.lp.truck
 }
