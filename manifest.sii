@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "v1.1.0"
+	package_version: "v1.1.1"
 
 	# Display name can be any string with any length.
-	display_name: "Project Japan Chinese (Simplified) City Name v1.1.0"
+	display_name: "Project Japan Chinese (Simplified) City Name v1.1.1"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
@@ -24,7 +24,7 @@ mod_package : .package_name
 	description_file: "description.txt"
 
 	 
-	compatible_versions[]: "1.50.*" # Mod is compatible with 1.50.X..
+	compatible_versions[]: "1.52.*" # Mod is compatible with 1.52.X..
 
 	mp_mod_optional: true
 	
