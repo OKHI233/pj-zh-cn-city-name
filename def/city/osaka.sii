@@ -24,7 +24,7 @@ city_data: city.osaka
 	map_y_offsets[]: -11
 	map_y_offsets[]: -26
 
-	vehicle_brands[]: "mercedes"
+	vehicle_brands[]: "iveco"
 
 	license_plate[]: .osaka.lp.truck
 }
