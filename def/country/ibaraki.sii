@@ -5,7 +5,7 @@ country_data: country.data.ibaraki
 	name: "Ibaraki"
 	name_localized: "@@ibaraki@@"
 	country_code: "JPIB"
-	iso_country_code: "ibaraki" #\material\ui\flags
+	iso_country_code: "iba" #\material\ui\flags
 	
 	pos:(68240, 0, 113177)
 

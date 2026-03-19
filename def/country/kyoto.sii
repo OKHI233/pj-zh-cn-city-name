@@ -5,7 +5,7 @@ country_data: country.data.kyoto
 	name: "Kyoto"
 	name_localized: "@@kyoto@@"
 	country_code: "JPKY"
-	iso_country_code: "kyoto" #\material\ui\flags
+	iso_country_code: "kyt" #\material\ui\flags
 	
 	pos:(-4562, 0, 3511)
 

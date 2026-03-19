@@ -5,7 +5,7 @@ country_data: country.data.aichi
 	name: "Aichi"
 	name_localized: "@@aichi@@"
 	country_code: "JPAI"
-	iso_country_code: "aichi" #\material\ui\flags
+	iso_country_code: "aic" #\material\ui\flags
 	
 	pos:(625, 0, 10297)
 

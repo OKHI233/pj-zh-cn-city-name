@@ -5,7 +5,7 @@ country_data: country.data.hokkaido
 	name: "Hokkaido"
 	name_localized: "@@hokkaido@@"
 	country_code: "JPHK"
-	iso_country_code: "hokkaido" #\material\ui\flags
+	iso_country_code: "hok" #\material\ui\flags
 	
 	pos:(30582, 0, -48897)
 

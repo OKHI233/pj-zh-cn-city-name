@@ -5,7 +5,7 @@ country_data: country.data.kagawa
 	name: "Kagawa"
 	name_localized: "@@kagawa@@"
 	country_code: "JPKG"
-	iso_country_code: "kagawa" #\material\ui\flags
+	iso_country_code: "kgw" #\material\ui\flags
 	
 	pos:(563, 0, 5314)
 

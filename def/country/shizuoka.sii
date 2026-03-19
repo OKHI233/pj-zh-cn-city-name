@@ -5,7 +5,7 @@ country_data: country.data.shizuoka
 	name: "Shizuoka"
 	name_localized: "@@shizuoka@@"
 	country_code: "JPSZ"
-	iso_country_code: "shizuoka" #\material\ui\flags
+	iso_country_code: "szo" #\material\ui\flags
 	
 	pos:(68240, 0, 113177)
 

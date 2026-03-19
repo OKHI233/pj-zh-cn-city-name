@@ -5,7 +5,7 @@ country_data: country.data.tochigi
 	name: "Tochigi"
 	name_localized: "@@tochigi@@"
 	country_code: "JPTC"
-	iso_country_code: "tochigi" #\material\ui\flags
+	iso_country_code: "tcg" #\material\ui\flags
 	
 	pos:(68240, 0, 113177)
 

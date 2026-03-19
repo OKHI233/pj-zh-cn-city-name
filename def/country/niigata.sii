@@ -5,7 +5,7 @@ country_data: country.data.niigata
 	name: "Niigata"
 	name_localized: "@@niigata@@"
 	country_code: "JPNI"
-	iso_country_code: "niigata" #\material\ui\flags
+	iso_country_code: "ngt" #\material\ui\flags
 	
 	pos:(11380, 0, -9863)
 

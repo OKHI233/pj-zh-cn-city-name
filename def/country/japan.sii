@@ -5,7 +5,7 @@ country_data: country.data.japan
 	name: "Japan"
 	name_localized: "@@japan@@"
 	country_code: "JP"
-	iso_country_code: "japan" #\material\ui\flags
+	iso_country_code: "jpn" #\material\ui\flags
 	
 	pos:(66000, 0, 121150)
 

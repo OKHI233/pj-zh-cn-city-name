@@ -5,7 +5,7 @@ country_data: country.data.hyogo
 	name: "Hyogo"
 	name_localized: "@@hyogo@@"
 	country_code: "JPHY"
-	iso_country_code: "hyogo" #\material\ui\flags
+	iso_country_code: "hyo" #\material\ui\flags
 	
 	pos:(-4562, 0, 3511)
 

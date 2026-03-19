@@ -5,7 +5,7 @@ country_data: country.data.toyama
 	name: "Toyama"
 	name_localized: "@@toyama@@"
 	country_code: "JPTY"
-	iso_country_code: "toyama" #\material\ui\flags
+	iso_country_code: "toy" #\material\ui\flags
 	
 	pos:(1467, 0, -2682)
 

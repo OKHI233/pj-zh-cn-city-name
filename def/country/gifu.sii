@@ -5,7 +5,7 @@ country_data: country.data.gifu
 	name: "Gifu"
 	name_localized: "@@gifu@@"
 	country_code: "JPGF"
-	iso_country_code: "gifu" #\material\ui\flags
+	iso_country_code: "gif" #\material\ui\flags
 	
 	pos:(563, 0, 5314)
 

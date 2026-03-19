@@ -5,7 +5,7 @@ country_data: country.data.fukui
 	name: "Fukui"
 	name_localized: "@@fukui@@"
 	country_code: "JPFI"
-	iso_country_code: "fukui" #\material\ui\flags
+	iso_country_code: "fki" #\material\ui\flags
 	
 	pos:(-4562, 0, 3511)
 

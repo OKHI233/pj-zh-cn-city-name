@@ -5,7 +5,7 @@ country_data: country.data.kochi
 	name: "Kochi"
 	name_localized: "@@kochi@@"
 	country_code: "JPKO"
-	iso_country_code: "kochi" #\material\ui\flags
+	iso_country_code: "koc" #\material\ui\flags
 	
 	pos:(-1677, 0, -2060)
 

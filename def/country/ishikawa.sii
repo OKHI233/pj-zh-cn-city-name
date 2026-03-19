@@ -5,7 +5,7 @@ country_data: country.data.ishikawa
 	name: "Ishikawa"
 	name_localized: "@@ishikawa@@"
 	country_code: "JPIS"
-	iso_country_code: "ishikawa" #\material\ui\flags
+	iso_country_code: "ikw" #\material\ui\flags
 	
 	pos:(-1677, 0, -2060)
 

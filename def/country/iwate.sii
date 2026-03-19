@@ -5,7 +5,7 @@ country_data: country.data.iwate
 	name: "Iwate"
 	name_localized: "@@iwate@@"
 	country_code: "JPIW"
-	iso_country_code: "iwate" #\material\ui\flags
+	iso_country_code: "iwa" #\material\ui\flags
 	
 	pos:(30582, 0, -48897)
 

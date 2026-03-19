@@ -5,7 +5,7 @@ country_data: country.data.nagano
 	name: "Nagano"
 	name_localized: "@@nagano@@"
 	country_code: "JPNG"
-	iso_country_code: "nagano" #\material\ui\flags
+	iso_country_code: "ngn" #\material\ui\flags
 	
 	pos:(396217, 0, 77200)
 

@@ -5,7 +5,7 @@ country_data: country.data.tokushima
 	name: "Tokushima"
 	name_localized: "@@tokushima@@"
 	country_code: "JPTS"
-	iso_country_code: "tokushima" #\material\ui\flags
+	iso_country_code: "tok" #\material\ui\flags
 	
 	pos:(-1677, 0, -2060)
 

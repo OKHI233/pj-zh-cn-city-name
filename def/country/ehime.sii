@@ -5,7 +5,7 @@ country_data: country.data.ehime
 	name: "Ehime"
 	name_localized: "@@ehime@@"
 	country_code: "JPEH"
-	iso_country_code: "ehime" #\material\ui\flags
+	iso_country_code: "ehi" #\material\ui\flags
 	
 	pos:(-1677, 0, -2060)
 

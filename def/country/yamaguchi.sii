@@ -5,7 +5,7 @@ country_data: country.data.yamaguchi
 	name: "Yamaguchi"
 	name_localized: "@@yamaguchi@@"
 	country_code: "JPYM"
-	iso_country_code: "yamaguchi" #\material\ui\flags
+	iso_country_code: "ymg" #\material\ui\flags
 	
 	pos:(-1677, 0, -2060)
 
