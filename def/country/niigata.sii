@@ -9,7 +9,7 @@ country_data: country.data.niigata
 	
 	pos:(11380, 0, -9863)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

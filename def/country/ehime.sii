@@ -9,7 +9,7 @@ country_data: country.data.ehime
 	
 	pos:(-1677, 0, -2060)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

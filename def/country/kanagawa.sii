@@ -9,7 +9,7 @@ country_data: country.data.kanagawa
 	
 	pos:(67860, 0, 125490)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

@@ -9,7 +9,7 @@ country_data: country.data.nagano
 	
 	pos:(396217, 0, 77200)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

@@ -9,7 +9,7 @@ country_data: country.data.shizuoka
 	
 	pos:(68240, 0, 113177)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

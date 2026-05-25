@@ -9,7 +9,7 @@ country_data: country.data.japan
 	
 	pos:(66000, 0, 121150)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

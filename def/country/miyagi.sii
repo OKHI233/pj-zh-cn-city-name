@@ -9,7 +9,7 @@ country_data: country.data.miyagi
 	
 	pos:(30582, 0, -48897)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true

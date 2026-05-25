@@ -9,7 +9,7 @@ country_data: country.data.fukui
 	
 	pos:(-4562, 0, 3511)
 
-	fuel_price: 0.969
+	fuel_price: 0.838
 
 	lights_mandatory: false
 	leftside_traffic: true
