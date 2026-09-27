@@ -3,9 +3,9 @@
 localization_db : .localization
 {
     key[]:  "scrap_metals"
-    val[]:  "JP 废铁"
+    val[]:  "JP废铁"
 
     key[]:  "jp_waste"
-    val[]:  "JP 工业废弃物"
+    val[]:  "JP工业废弃物"
 }
 }

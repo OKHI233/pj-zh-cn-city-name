@@ -209,9 +209,6 @@ localization_db : .localization
     key[]:  "suita"
     val[]:  "吹田"
 
-    key[]:  "suzuka"
-    val[]:  "铃鹿"
-
     key[]:  "toyonaka"
     val[]:  "丰中"
 
@@ -238,6 +235,10 @@ localization_db : .localization
 
     key[]:  "mie"
     val[]:  "三重"
+
+#NON-OFFICIAL ENTRIES
+    key[]:  "suzuka"
+    val[]:  "铃鹿"
 
 }
 } # EOF
