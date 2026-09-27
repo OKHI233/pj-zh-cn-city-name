@@ -1,7 +1,0 @@
-ferry_data: ferry.hitachi
-{
-	ferry_name: "Hitachi"
-	ferry_name_localized: "@@Hitachi@@"
-}
-
-

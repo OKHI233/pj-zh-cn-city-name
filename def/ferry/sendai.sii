@@ -1,7 +1,0 @@
-ferry_data: ferry.sendai
-{
-	ferry_name: "Sendai"
-	ferry_name_localized: "@@Sendai@@"
-}
-
-

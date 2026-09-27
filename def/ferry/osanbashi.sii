@@ -1,7 +1,0 @@
-ferry_data: ferry.osanbashi
-{
-	ferry_name: "Yokohama"
-	ferry_name_localized: "@@Yokohama@@"
-}
-
-
