@@ -1,10 +1,8 @@
 [orange]Project Japan Chinese (Simplified) City Name v1.1.10
 [normal]A little add-on for Project Japan that makes Chinese (Simplified) localization works...
 [normal]You need to put it above Project Japan in the mod manager.
-[normal]You can share this mod with the link below.
-[blue]https://truckymods.io/euro-truck-simulator-2/map-patches/project-japan-chinese-simplified-city-name
 
-[normal]This mod is licensed under CC BY-NC-SA 4.0.
-[blue]https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
-[normal]Copyright © 2022-2026 OKHI233
+[normal]Source is available. Contributions are welcomed!
+[blue]https://github.com/OKHI233/pj-zh-cn-city-name
+
 [normal]This mod is based on Project Japan: [blue]https://ets2.jp/en/
