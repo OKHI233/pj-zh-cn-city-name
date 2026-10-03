@@ -1,4 +1,4 @@
-[orange]Project Japan Chinese (Simplified) City Name v1.1.10
+[orange]Project Japan Chinese (Simplified) City Name v1.1.11
 [normal]A little add-on for Project Japan that makes Chinese (Simplified) localization works...
 [normal]You need to put it above Project Japan in the mod manager.
 
