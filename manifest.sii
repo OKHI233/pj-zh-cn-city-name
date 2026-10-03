@@ -33,6 +33,8 @@ mod_package : .package_name
 	dlc_dependencies[]: "dlc_balkan_e"
 	dlc_dependencies[]: "dlc_iberia"
 	dlc_dependencies[]: "dlc_balkan_w"
+	dlc_dependencies[]: "dlc_greece"
+	dlc_dependencies[]: "dlc_polar"
 
 }
 }
